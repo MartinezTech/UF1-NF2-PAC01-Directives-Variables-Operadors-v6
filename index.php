@@ -21,7 +21,7 @@
         <h1>Directives Variables Operadors</h1>
         <h3>Ejercicio 1</h3>
         <ul>
-            <li><h5>Task D and E: 1 $_GET variable and link</h5></li>
+            <li><h5>Task A and E: 1 $_GET variable and link</h5></li>
                 <ul><li><a href="secondary.php?task=a&exercise=1&name_activity=Directives Variables Operadors&author=Alex Martinez">First exercise $GET</a></li></ul>
             <li><h5>Task B and C: $_SESSION and $_POST<h5></li>
                 <ul>
@@ -71,7 +71,7 @@
                 ?>   
      
 
-            <li>Task G: NULL controls</li>
+            <li><h5>Task G: NULL controls</h5></li>
             <?php
                 echo "<p>Go to check NULL controls<p>
                       <a href='secondary.php?task=a&exercise=1&name_activity=Directives Variables Operadors&author=Alex Martinez'>Link here</a>"
